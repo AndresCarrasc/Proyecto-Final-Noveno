@@ -1,4 +1,4 @@
-# Proyecto-Final-Noveno
+# Proyecto_Final
 
 ## Título del proyecto: 
 EduNoti
